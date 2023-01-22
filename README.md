@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Ankit Kumar</h1>
 <h3 align="center">A passionate frontend developer from India. Having proficiency in HTML, CSS and JavaScript. I also have a good knowledge of BOOTSTRAP and Tailwind CSS. Currently i'm trying my hands on ReactJS. I am a motivated individual who likes to learn new things and a quick learner. I am very passionate and enthusiastic about creating constructive and efficient solutions. I believe that having an open mind can help you remain creative and grasp ideas from any subject to implement it in your field!.</h3>
 
-<img align="right" alt="Coding-Img" width="400" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
+<img align="right" alt="Coding-Img" width="600" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkumar103&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkumar103" /> </p>
 
@@ -35,4 +35,4 @@
 
 <p>&nbsp;<img align="right" width="480" src="https://github-readme-stats.vercel.app/api?username=ankitkumar103&show_icons=true&locale=en" alt="ankitkumar103" /></p> -->
 
-<p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitkumar103&show_icons=true&locale=en&layout=compact" alt="ankitkumar103" /></p>
+<!-- <p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitkumar103&show_icons=true&locale=en&layout=compact" alt="ankitkumar103" /></p> -->
