@@ -35,4 +35,4 @@
 
 <p>&nbsp;<img align="right" width="480" src="https://github-readme-stats.vercel.app/api?username=ankitkumar103&show_icons=true&locale=en" alt="ankitkumar103" /></p> -->
 
-<p><img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitkumar103&show_icons=true&locale=en&layout=compact" alt="ankitkumar103" /></p>
+<p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitkumar103&show_icons=true&locale=en&layout=compact" alt="ankitkumar103" /></p>
