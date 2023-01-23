@@ -1,7 +1,9 @@
 <h1 align="center">Hi there👋, I'm Ankit Kumar</h1>
-<h3 align="center">A passionate frontend developer from India. Having proficiency in HTML, CSS and JavaScript. I also have a good knowledge of BOOTSTRAP and Tailwind CSS. Currently i'm trying my hands on ReactJS. I am a motivated individual who likes to learn new things and a quick learner. I am very passionate and enthusiastic about creating constructive and efficient solutions. I believe that having an open mind can help you remain creative and grasp ideas from any subject to implement it in your field!.</h3>
+<h4 align="center">A passionate frontend developer from India. Having proficiency in HTML, CSS and JavaScript. I also have a good knowledge of BOOTSTRAP and Tailwind CSS. Currently i'm trying my hands on ReactJS. I am a motivated individual who likes to learn new things and a quick learner. I am very passionate and enthusiastic about creating constructive and efficient solutions. I believe that having an open mind can help you remain creative and grasp ideas from any subject to implement it in your field!.</h4>
 
-<img align="right" alt="Coding-Img" width="600" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
+<img align="right" alt="Coding-Img" width="550" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
+
+</br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkumar103&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkumar103" /> </p>
 
@@ -13,15 +15,9 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1E1pmDZtgJKtvQ5FflqW2g2RoKw-d548f/view?usp=sharing](https://drive.google.com/file/d/1E1pmDZtgJKtvQ5FflqW2g2RoKw-d548f/view?usp=sharing)
 
-- ⚡ Fun fact **Copy and Paste was programmed by programmers for programmers actually 😄**
+- ⚡ Fun fact - **Copy and Paste was programmed by programmers for programmers actually 😄**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankit-kumar-rajput/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-kumar-rajput/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/vicky_rajput_10?igshid=zddkntzintm=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/vicky_rajput_10?igshid=zddkntzintm=" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
@@ -31,8 +27,17 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 </p>
 
-<!-- <p><img align="left" width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumar103&" alt="ankitkumar103" /></p>
+</br>
 
-<p>&nbsp;<img align="right" width="480" src="https://github-readme-stats.vercel.app/api?username=ankitkumar103&show_icons=true&locale=en" alt="ankitkumar103" /></p> -->
-
-<!-- <p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitkumar103&show_icons=true&locale=en&layout=compact" alt="ankitkumar103" /></p> -->
+## Connect With Me
+<div align="center">
+<a href="https://github.com/https://github.com/Ankitkumar103" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankit-kumar-rajput/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/https://www.instagram.com/vicky_rajput_10/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>
