@@ -1,11 +1,11 @@
 <h1 align="center">Hi there👋, I'm Ankit Kumar</h1>
-<h5 align="center">
+<p align="center"><b>
 <!--   A passionate frontend developer from India. -->
   I'm an aspiring Frontend Developer whose whole interest is building interactive, accessible, and responsive websites. Having proficiency in HTML, CSS and JavaScript. Currently i'm trying my hands on ReactJS. I also have a good knowledge of BOOTSTRAP and Tailwind CSS. <br>
 I am a motivated individual who likes to learn new things and a quick learner. I am very passionate and enthusiastic about creating constructive and efficient solutions. I believe that having an open mind can help you remain creative and grasp ideas from any subject to implement it in your field!. <br>
 Besides coding, I love playing football, traveling, and listening to music. <br>
 Currently, searching for new opportunities to learn new things and to grow my existing skills further.
-</h5>
+</b></p>
 
 <img align="right" alt="Coding-Img" width="520" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
